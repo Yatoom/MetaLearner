@@ -1,0 +1,234 @@
+{
+    "6969": {
+        "area_under_roc_curve": {
+            "both": {
+                "correlation": 0.4206323109501467,
+                "mse": 0.008131914709906384
+            },
+            "metafeatures": {
+                "correlation": 0.0,
+                "mse": 0.00816326121065105
+            },
+            "hyperparameters": {
+                "correlation": 0.3150434908695796,
+                "mse": 0.011179958062702213
+            }
+        },
+        "f_measure": {
+            "both": {
+                "correlation": 0.4965684855587257,
+                "mse": 0.011792505668953087
+            },
+            "metafeatures": {
+                "correlation": 0.0,
+                "mse": 0.012306212035092216
+            },
+            "hyperparameters": {
+                "correlation": 0.4591349579324132,
+                "mse": 0.026595863565908474
+            }
+        },
+        "kappa": {
+            "both": {
+                "correlation": 0.5074347251092666,
+                "mse": 0.04235751890434041
+            },
+            "metafeatures": {
+                "correlation": 0.0,
+                "mse": 0.04416462999749473
+            },
+            "hyperparameters": {
+                "correlation": 0.42216802132443465,
+                "mse": 0.09193017212042512
+            }
+        },
+        "predictive_accuracy": {
+            "both": {
+                "correlation": 0.44145276241253206,
+                "mse": 0.009924599516915563
+            },
+            "metafeatures": {
+                "correlation": 0.0,
+                "mse": 0.010167656851139205
+            },
+            "hyperparameters": {
+                "correlation": 0.4097554987516803,
+                "mse": 0.02415850221398677
+            }
+        }
+    },
+    "6970": {
+        "area_under_roc_curve": {
+            "both": {
+                "correlation": 0.3353276370147663,
+                "mse": 0.009862666027490405
+            },
+            "metafeatures": {
+                "correlation": 0.0,
+                "mse": 0.010356972274441514
+            },
+            "hyperparameters": {
+                "correlation": 0.22805840529223706,
+                "mse": 0.015106773865934913
+            }
+        },
+        "f_measure": {
+            "both": {
+                "correlation": 0.35184427217828446,
+                "mse": 0.011218711637461508
+            },
+            "metafeatures": {
+                "correlation": 0.0,
+                "mse": 0.01676771053191881
+            },
+            "hyperparameters": {
+                "correlation": 0.30608362062170996,
+                "mse": 0.031244090569360353
+            }
+        },
+        "kappa": {
+            "both": {
+                "correlation": 0.3520111969700761,
+                "mse": 0.06285387219903026
+            },
+            "metafeatures": {
+                "correlation": 0.0,
+                "mse": 0.06719260682572673
+            },
+            "hyperparameters": {
+                "correlation": 0.27187603170358415,
+                "mse": 0.09668651261589532
+            }
+        },
+        "predictive_accuracy": {
+            "both": {
+                "correlation": 0.33525154849553185,
+                "mse": 0.010090949236792076
+            },
+            "metafeatures": {
+                "correlation": 0.0,
+                "mse": 0.014148666510877116
+            },
+            "hyperparameters": {
+                "correlation": 0.2754504756956309,
+                "mse": 0.029552766106353358
+            }
+        }
+    },
+    "8315": {
+        "area_under_roc_curve": {
+            "both": {
+                "correlation": 0.45058412762731864,
+                "mse": 0.007835557781964817
+            },
+            "metafeatures": {
+                "correlation": 0.0,
+                "mse": 0.007579860841128481
+            },
+            "hyperparameters": {
+                "correlation": 0.2829409674224909,
+                "mse": 0.01115074238061039
+            }
+        },
+        "f_measure": {
+            "both": {
+                "correlation": 0.5154148700248125,
+                "mse": 0.02379943418107479
+            },
+            "metafeatures": {
+                "correlation": 0.0,
+                "mse": 0.023683081920520335
+            },
+            "hyperparameters": {
+                "correlation": 0.4002015212771059,
+                "mse": 0.025679129242895424
+            }
+        },
+        "kappa": {
+            "both": {
+                "correlation": 0.5346250166702791,
+                "mse": 0.040041184067292034
+            },
+            "metafeatures": {
+                "correlation": 0.0,
+                "mse": 0.03901563092416895
+            },
+            "hyperparameters": {
+                "correlation": 0.3699202948960178,
+                "mse": 0.08372819351170328
+            }
+        },
+        "predictive_accuracy": {
+            "both": {
+                "correlation": 0.4787033152754308,
+                "mse": 0.019749713847017392
+            },
+            "metafeatures": {
+                "correlation": 0.0,
+                "mse": 0.019803043720802313
+            },
+            "hyperparameters": {
+                "correlation": 0.39045489880529727,
+                "mse": 0.02385572514940913
+            }
+        }
+    },
+    "8317": {
+        "area_under_roc_curve": {
+            "both": {
+                "correlation": 0.5219610512265148,
+                "mse": 0.02088270036726225
+            },
+            "metafeatures": {
+                "correlation": 0.0,
+                "mse": 0.028712603042615595
+            },
+            "hyperparameters": {
+                "correlation": 0.38180792693539384,
+                "mse": 0.027170326396736864
+            }
+        },
+        "f_measure": {
+            "both": {
+                "correlation": 0.44456327504160115,
+                "mse": 0.037921889341515164
+            },
+            "metafeatures": {
+                "correlation": 0.0,
+                "mse": 0.055903881609753604
+            },
+            "hyperparameters": {
+                "correlation": 0.4183873932376335,
+                "mse": 0.057392509791304044
+            }
+        },
+        "kappa": {
+            "both": {
+                "correlation": 0.5092870333381645,
+                "mse": 0.08704411380823511
+            },
+            "metafeatures": {
+                "correlation": 0.0,
+                "mse": 0.10621020805968256
+            },
+            "hyperparameters": {
+                "correlation": 0.39109424404094406,
+                "mse": 0.10428452766231076
+            }
+        },
+        "predictive_accuracy": {
+            "both": {
+                "correlation": 0.4600273676909073,
+                "mse": 0.029497176073832246
+            },
+            "metafeatures": {
+                "correlation": 0.0,
+                "mse": 0.04602232341874403
+            },
+            "hyperparameters": {
+                "correlation": 0.4120453791570561,
+                "mse": 0.052019193382103625
+            }
+        }
+    }
+}

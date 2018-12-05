@@ -1,0 +1,24 @@
+{
+    "8315": {
+        "area_under_roc_curve": {
+            "both": {
+                "correlation": 0.4894617981446049,
+                "mse": 0.5935091891413576
+            },
+            "metas": {
+                "correlation": 0.0,
+                "mse": 1.0
+            },
+            "params": {
+                "correlation": 0.516992522779276,
+                "mse": 0.5400472291879095
+            }
+        },
+        "f_measure": {
+            "params": {
+                "correlation": 0.5050613179423735,
+                "mse": 0.6516876116081577
+            }
+        }
+    }
+}
