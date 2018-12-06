@@ -1,0 +1,72 @@
+{
+    "6969": {
+        "area_under_roc_curve": {
+            "both": {
+                "correlation": 0.48716387128986083,
+                "mse": 0.5492523588698105,
+                "rmse": 0.7039155984636734
+            },
+            "metafeatures": {
+                "correlation": 0.0,
+                "mse": 0.9761904761904762,
+                "rmse": 0.9761904765484088
+            },
+            "hyperparameters": {
+                "correlation": 0.4267575932873846,
+                "mse": 0.6585721009438251,
+                "rmse": 0.7893204671832328
+            }
+        },
+        "f_measure": {
+            "both": {
+                "correlation": 0.5336210486291728,
+                "mse": 0.5470911657730737,
+                "rmse": 0.6920104336674687
+            },
+            "metafeatures": {
+                "correlation": 0.0,
+                "mse": 1.0,
+                "rmse": 1.0
+            },
+            "hyperparameters": {
+                "correlation": 0.492347655342459,
+                "mse": 0.6261678608401721,
+                "rmse": 0.7651591347876994
+            }
+        },
+        "kappa": {
+            "both": {
+                "correlation": 0.537048166680137,
+                "mse": 0.5418055556603123,
+                "rmse": 0.686041421528167
+            },
+            "metafeatures": {
+                "correlation": 0.0,
+                "mse": 1.0,
+                "rmse": 1.0
+            },
+            "hyperparameters": {
+                "correlation": 0.48443066273365193,
+                "mse": 0.6383590624675864,
+                "rmse": 0.7721898971429982
+            }
+        },
+        "predictive_accuracy": {
+            "both": {
+                "correlation": 0.513799321447848,
+                "mse": 0.5485989429573178,
+                "rmse": 0.7036275228856864
+            },
+            "metafeatures": {
+                "correlation": 0.0,
+                "mse": 1.0000000000000004,
+                "rmse": 1.0
+            },
+            "hyperparameters": {
+                "correlation": 0.4551345490088207,
+                "mse": 0.6762924873801031,
+                "rmse": 0.8015672618155505
+            }
+        }
+    }
+}
